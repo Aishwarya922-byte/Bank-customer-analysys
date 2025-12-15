@@ -103,6 +103,3 @@ This dashboard can be used by banking and financial teams to:
 
 ---
 
-## 📎 Dashboard Preview
-
-*(Insert Power BI dashboard screenshots here)*
